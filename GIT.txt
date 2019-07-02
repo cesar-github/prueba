@@ -1,0 +1,5 @@
+MEGA@DESKTOP-SLSIFPB MINGW64 ~/Desktop/GIT/operaciones (master)
+$ git config --global user.name "operaciones"
+
+MEGA@DESKTOP-SLSIFPB MINGW64 ~/Desktop/GIT/operaciones (master)
+$ git config --global user.email "cesar.gabriel@outlook.com"
